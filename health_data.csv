@@ -1,0 +1,301 @@
+Age,Gender,Cholesterol,Systolic BP,Diastolic BP,Heart Condition
+89,Female,150,146,76,Valve Disorder
+65,Male,168,139,72,Healthy
+58,Male,211,120,99,Valve Disorder
+77,Female,284,134,88,Valve Disorder
+77,Male,268,159,80,Heart Disease
+21,Male,286,107,60,Heart Disease
+45,Female,165,157,96,Arrhythmia
+35,Female,158,108,77,Healthy
+34,Female,298,119,63,Arrhythmia
+67,Female,230,155,77,Valve Disorder
+82,Female,157,121,75,Healthy
+27,Male,249,116,83,Hypertension
+58,Female,298,134,80,Valve Disorder
+61,Male,231,136,76,Healthy
+61,Male,154,127,76,Healthy
+24,Female,275,114,79,Heart Disease
+63,Female,193,157,76,Arrhythmia
+53,Female,287,126,89,Valve Disorder
+28,Male,234,121,65,Healthy
+25,Female,268,114,65,Valve Disorder
+45,Male,193,127,99,Valve Disorder
+68,Male,212,153,95,Valve Disorder
+19,Female,271,122,74,Valve Disorder
+38,Female,222,105,74,Healthy
+68,Female,287,152,79,Hypertension
+64,Female,168,118,98,Arrhythmia
+32,Female,288,122,61,Cardiomyopathy
+29,Female,259,100,77,Heart Disease
+82,Male,244,140,70,Heart Disease
+42,Female,157,118,71,Healthy
+42,Female,194,123,91,Heart Disease
+26,Female,183,120,80,Healthy
+45,Female,265,147,86,Hypertension
+38,Male,249,125,69,Heart Disease
+34,Female,217,124,64,Healthy
+34,Male,273,123,62,Arrhythmia
+37,Male,267,127,68,Cardiomyopathy
+18,Female,225,104,72,Healthy
+75,Female,291,111,91,Heart Disease
+31,Female,150,108,73,Healthy
+36,Male,229,118,61,Healthy
+57,Female,282,144,72,Hypertension
+83,Female,256,113,74,Valve Disorder
+21,Male,215,108,84,Healthy
+37,Female,153,101,77,Healthy
+40,Female,248,135,91,Arrhythmia
+65,Female,191,133,93,Arrhythmia
+65,Male,233,127,95,Valve Disorder
+79,Male,243,111,96,Hypertension
+66,Male,268,159,100,Heart Disease
+76,Female,171,132,80,Healthy
+56,Female,227,125,87,Healthy
+85,Male,212,146,96,Hypertension
+51,Male,183,140,71,Healthy
+79,Female,263,112,79,Hypertension
+38,Male,237,118,64,Healthy
+44,Female,189,145,91,Hypertension
+45,Male,293,155,89,Cardiomyopathy
+32,Female,239,126,81,Healthy
+45,Female,243,129,86,Heart Disease
+48,Male,234,122,79,Healthy
+69,Female,168,117,77,Healthy
+22,Male,271,102,69,Arrhythmia
+42,Female,300,122,99,Cardiomyopathy
+67,Male,253,156,82,Arrhythmia
+51,Male,295,149,81,Cardiomyopathy
+81,Female,231,128,80,Healthy
+37,Female,231,129,82,Healthy
+53,Male,166,124,89,Healthy
+53,Female,206,149,80,Hypertension
+52,Female,259,110,88,Cardiomyopathy
+70,Male,226,115,93,Valve Disorder
+54,Female,252,112,98,Hypertension
+74,Male,267,148,78,Valve Disorder
+62,Male,294,143,82,Arrhythmia
+75,Female,225,137,92,Valve Disorder
+42,Female,296,116,73,Heart Disease
+74,Female,185,128,81,Healthy
+18,Male,240,109,85,Healthy
+71,Female,185,134,94,Hypertension
+60,Female,253,154,94,Cardiomyopathy
+30,Female,195,112,63,Healthy
+37,Female,205,124,61,Healthy
+65,Male,159,110,84,Healthy
+56,Female,183,153,87,Valve Disorder
+68,Male,226,151,71,Arrhythmia
+52,Female,192,156,82,Arrhythmia
+24,Female,245,121,65,Hypertension
+42,Male,188,119,90,Healthy
+20,Male,255,124,66,Valve Disorder
+84,Female,239,152,85,Hypertension
+81,Male,158,147,92,Heart Disease
+51,Male,241,115,88,Valve Disorder
+69,Male,217,116,74,Healthy
+78,Female,200,136,100,Valve Disorder
+55,Male,153,115,89,Healthy
+38,Male,171,125,70,Healthy
+24,Male,212,115,72,Healthy
+68,Male,265,136,80,Arrhythmia
+22,Female,281,113,79,Arrhythmia
+44,Female,244,135,90,Valve Disorder
+70,Male,165,136,82,Healthy
+35,Female,205,101,81,Healthy
+39,Male,237,114,62,Healthy
+55,Female,193,120,88,Healthy
+82,Female,248,131,88,Cardiomyopathy
+21,Female,173,122,74,Healthy
+74,Male,185,132,92,Heart Disease
+41,Female,257,144,84,Hypertension
+90,Female,165,121,97,Cardiomyopathy
+86,Female,215,132,76,Healthy
+46,Female,180,140,91,Cardiomyopathy
+20,Male,252,120,71,Heart Disease
+87,Female,181,137,91,Arrhythmia
+67,Female,163,113,95,Valve Disorder
+73,Male,283,110,72,Arrhythmia
+28,Male,184,122,82,Healthy
+74,Male,155,138,86,Healthy
+27,Male,181,125,71,Healthy
+20,Female,179,114,60,Healthy
+61,Female,239,145,83,Cardiomyopathy
+67,Male,225,113,86,Healthy
+84,Female,300,159,95,Valve Disorder
+35,Female,230,125,61,Healthy
+18,Male,212,129,76,Healthy
+39,Male,201,122,63,Healthy
+85,Female,268,131,79,Heart Disease
+75,Female,166,153,82,Valve Disorder
+76,Female,253,114,86,Heart Disease
+90,Female,234,149,80,Cardiomyopathy
+21,Male,275,122,63,Cardiomyopathy
+41,Male,260,128,71,Arrhythmia
+53,Male,180,118,88,Healthy
+29,Female,252,106,69,Heart Disease
+86,Male,231,159,88,Cardiomyopathy
+18,Female,234,114,81,Healthy
+68,Female,224,136,76,Healthy
+59,Male,268,138,98,Arrhythmia
+59,Female,289,138,87,Cardiomyopathy
+65,Female,247,152,89,Heart Disease
+49,Male,254,158,88,Valve Disorder
+19,Female,214,129,80,Healthy
+58,Male,172,110,99,Arrhythmia
+84,Male,170,142,97,Arrhythmia
+30,Female,186,103,66,Healthy
+71,Female,171,157,74,Arrhythmia
+29,Male,230,100,79,Healthy
+48,Female,201,120,74,Healthy
+52,Female,159,159,98,Arrhythmia
+80,Female,163,123,82,Healthy
+28,Male,252,115,73,Heart Disease
+73,Male,282,120,76,Cardiomyopathy
+72,Female,205,152,77,Cardiomyopathy
+57,Female,192,131,70,Healthy
+57,Male,290,150,80,Valve Disorder
+72,Male,167,119,77,Healthy
+80,Female,257,134,78,Heart Disease
+90,Female,270,148,81,Arrhythmia
+82,Male,281,138,89,Valve Disorder
+21,Female,269,113,73,Hypertension
+42,Male,264,121,71,Valve Disorder
+36,Female,151,110,78,Healthy
+55,Female,232,152,79,Valve Disorder
+89,Male,255,139,79,Arrhythmia
+18,Male,151,111,77,Healthy
+61,Male,182,158,100,Heart Disease
+18,Male,190,121,78,Healthy
+82,Female,265,159,91,Hypertension
+31,Female,226,130,67,Healthy
+24,Female,246,109,63,Arrhythmia
+52,Female,169,119,77,Healthy
+75,Male,204,160,84,Heart Disease
+88,Male,202,142,71,Cardiomyopathy
+30,Female,165,123,85,Healthy
+65,Male,165,118,84,Healthy
+35,Male,158,106,81,Healthy
+82,Male,221,116,76,Healthy
+42,Female,300,157,83,Cardiomyopathy
+69,Female,181,157,93,Cardiomyopathy
+89,Female,212,136,84,Healthy
+50,Male,228,141,96,Heart Disease
+49,Female,289,121,89,Valve Disorder
+34,Female,187,127,78,Healthy
+79,Male,232,128,91,Arrhythmia
+21,Female,298,102,69,Arrhythmia
+40,Female,151,129,97,Arrhythmia
+21,Female,184,126,69,Healthy
+41,Female,183,138,70,Healthy
+52,Female,174,115,98,Cardiomyopathy
+87,Male,279,116,99,Cardiomyopathy
+47,Male,202,117,84,Healthy
+35,Male,289,120,78,Hypertension
+61,Male,182,155,97,Valve Disorder
+67,Female,194,137,71,Healthy
+77,Female,202,160,94,Valve Disorder
+50,Male,185,125,77,Healthy
+28,Female,179,120,73,Healthy
+75,Male,177,123,98,Valve Disorder
+65,Male,268,133,82,Hypertension
+71,Female,249,111,99,Hypertension
+77,Female,204,113,93,Heart Disease
+40,Male,276,114,94,Valve Disorder
+30,Male,194,103,67,Healthy
+74,Male,170,115,92,Valve Disorder
+75,Female,299,160,74,Arrhythmia
+73,Female,241,156,100,Valve Disorder
+24,Male,159,104,80,Healthy
+83,Female,184,143,72,Arrhythmia
+64,Male,176,152,85,Cardiomyopathy
+28,Female,204,103,75,Healthy
+24,Male,204,117,66,Healthy
+79,Male,198,145,82,Arrhythmia
+41,Female,271,110,73,Cardiomyopathy
+57,Female,160,153,92,Valve Disorder
+50,Male,236,115,76,Healthy
+51,Male,206,111,78,Healthy
+26,Male,159,100,83,Healthy
+75,Male,289,154,79,Heart Disease
+29,Male,189,117,84,Healthy
+36,Female,258,122,60,Cardiomyopathy
+56,Female,186,131,83,Healthy
+50,Male,192,153,90,Arrhythmia
+52,Male,281,118,76,Valve Disorder
+89,Male,157,141,79,Valve Disorder
+31,Female,222,112,67,Healthy
+42,Female,174,153,89,Heart Disease
+50,Female,235,129,91,Cardiomyopathy
+39,Female,186,100,64,Healthy
+60,Female,240,130,98,Heart Disease
+73,Male,270,142,70,Heart Disease
+20,Male,271,126,62,Arrhythmia
+37,Female,213,118,62,Healthy
+46,Female,178,119,100,Hypertension
+19,Male,298,126,78,Cardiomyopathy
+44,Female,225,142,83,Hypertension
+38,Male,228,105,80,Healthy
+63,Female,288,144,87,Cardiomyopathy
+59,Female,170,129,85,Healthy
+80,Female,178,135,78,Healthy
+68,Male,177,139,100,Arrhythmia
+85,Male,156,133,75,Healthy
+36,Female,152,115,74,Healthy
+39,Male,263,110,66,Hypertension
+60,Female,204,111,80,Healthy
+53,Female,195,153,72,Arrhythmia
+24,Male,246,110,85,Cardiomyopathy
+81,Female,240,114,77,Healthy
+49,Female,262,133,70,Hypertension
+83,Male,251,160,71,Hypertension
+44,Female,199,131,80,Healthy
+18,Female,300,125,65,Hypertension
+19,Male,183,103,72,Healthy
+22,Female,288,101,79,Valve Disorder
+64,Female,150,145,78,Heart Disease
+90,Male,275,133,91,Arrhythmia
+59,Male,227,125,88,Healthy
+28,Female,173,106,85,Healthy
+27,Female,214,109,73,Healthy
+85,Male,262,154,87,Heart Disease
+54,Male,253,148,98,Arrhythmia
+53,Male,206,151,88,Arrhythmia
+33,Male,230,123,70,Healthy
+41,Female,201,127,74,Healthy
+20,Male,300,115,82,Hypertension
+45,Female,163,152,100,Cardiomyopathy
+44,Female,199,143,80,Heart Disease
+54,Male,204,120,88,Healthy
+77,Male,210,144,96,Hypertension
+18,Female,183,103,73,Healthy
+23,Male,210,126,71,Healthy
+72,Female,263,124,76,Valve Disorder
+52,Female,217,157,86,Cardiomyopathy
+47,Female,247,113,94,Arrhythmia
+31,Male,159,113,84,Healthy
+60,Male,198,112,96,Arrhythmia
+66,Male,283,153,78,Valve Disorder
+59,Male,190,124,94,Hypertension
+32,Female,212,106,77,Healthy
+86,Male,194,115,77,Healthy
+67,Female,177,129,70,Healthy
+39,Male,267,106,77,Arrhythmia
+22,Female,253,115,64,Valve Disorder
+35,Male,251,126,60,Valve Disorder
+26,Male,153,125,72,Healthy
+70,Male,275,132,81,Hypertension
+48,Female,204,117,77,Healthy
+78,Male,162,131,100,Arrhythmia
+29,Female,292,110,71,Cardiomyopathy
+88,Female,270,131,80,Heart Disease
+72,Male,285,139,97,Valve Disorder
+39,Male,299,106,72,Arrhythmia
+50,Male,285,125,91,Hypertension
+29,Male,203,101,80,Healthy
+53,Female,275,142,78,Cardiomyopathy
+57,Female,173,114,82,Healthy
+49,Male,152,134,77,Healthy
+22,Female,282,129,84,Arrhythmia
+30,Male,282,105,82,Cardiomyopathy
+74,Male,175,112,90,Healthy
+47,Male,287,123,91,Hypertension
